@@ -5,4 +5,4 @@ If you find something wrong, please send me a message and i'll fix it. Also I wa
 
 ---
 # Notebooks:
-### 01 - Hand-writed numbers recognition --> https://bit.ly/hwnumrec
+### 01 - Hand-writed numbers recognition --> https://bit.ly/handwrited-numbers-recognition
