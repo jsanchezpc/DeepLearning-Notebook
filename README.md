@@ -2,3 +2,6 @@
 My Notebooks dedicated to learn the basics of Deep Learning with Python, TensorFlow &amp; Keras.
 
 If you find something wrong, please send me a message and i'll fix it. Also I want to improve so your help is always welcome :) <3
+
+
+### 01 - Hand-writed numbers recognition --> https://colab.research.google.com/drive/1v0zQ03VojHvxNJG-7zX8FE9YGTwlLtjT?usp=sharing
