@@ -3,5 +3,6 @@ My Notebooks dedicated to learn the basics of Deep Learning with Python, TensorF
 
 If you find something wrong, please send me a message and i'll fix it. Also I want to improve so your help is always welcome :) <3
 
+---
 
 ### 01 - Hand-writed numbers recognition --> https://bit.ly/hwnumrec
